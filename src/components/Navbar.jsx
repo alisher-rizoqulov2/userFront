@@ -8,14 +8,14 @@ const Navbar = () => {
         to={"/"}
         className="text-white text-lg font-mono hover:bg-[#8ad21e] duration-300 hover:rounded-[10px] font-bold flex items-center justify-center px-[20px] py-[5px]"
       >
-        Create Users
+        User Yaratish
       </NavLink>
       <div className="flex items-center space-x-3">
         <NavLink
           to={"/all-users"}
           className="text-white font-bold px-[10px] py-[7px] hover:bg-[#8ad21e] duration-300 hover:rounded-[10px]"
         >
-          All Users
+          Userslar Ro'yxati
         </NavLink>
       </div>
     </div>
